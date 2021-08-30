@@ -1,0 +1,12 @@
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\bin\Release\net5.0\EssentialTraining.deps.json
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\bin\Release\net5.0\EssentialTraining.dll
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\bin\Release\net5.0\ref\EssentialTraining.dll
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\bin\Release\net5.0\EssentialTraining.pdb
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.csproj.AssemblyReference.cache
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.AssemblyInfo.cs
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.dll
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\ref\EssentialTraining.dll
+C:\Users\Steven\Documents\EssentialTraining\EssentialTraining\obj\Release\net5.0\EssentialTraining.pdb

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="C:\Users\Steven\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Steven\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="C:\Users\Steven\.nuget\packages\nlog.config\4.7.11\contentFiles\any\any\NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="4.7.11" />
+    <PackageReference Include="NLog.Config" Version="4.7.11" />
+  </ItemGroup>
+
+</Project>
